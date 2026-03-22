@@ -36,6 +36,8 @@ The CNN model includes:
 * Fully connected (Dense) layers
 * Output layer with Softmax activation
 
+## 🚀 Training Time:
+* Approx: **25 minutes for 10 epoch**
 ## 🚀 Run the Notebook
 
 ### ▶️ Open in Google Colab
@@ -53,7 +55,7 @@ jupyter notebook
 ## 🛠️ Requirements
 
 * Python
-* TensorFlow / Keras
+* pytorch
 * NumPy
 * Matplotlib
 * Jupyter Notebook / Google Colab
